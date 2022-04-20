@@ -1,0 +1,12 @@
+* une petite presentation
+*zomming (maquetage)
+*
+*use case diagramme
+*diagrame d'activite
+*diagramme de sequence (tres important): il faut baser sur les interactions chronologiquement entre les acteurs et le systeme 
+*mcd(qu'esce que cle primaire, cardinalite(nombre de foix participe entre deux association), 
+  
+entité->table(bdd)
+clé -> clé primaire
+attribut -> caracteristique
+association -> relation clé etrangere
